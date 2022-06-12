@@ -1,0 +1,5 @@
+<dependency>
+  <groupId>com.mysql.cj</groupId>
+  <artifactId>mysql-util</artifactId>
+  <version>142.1</version>
+</dependency>
